@@ -1,0 +1,43 @@
+h1 {
+    font-size: 80px;
+    padding-left: 500px;
+    background-color: #f4a742;
+    font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+}
+
+h2 {
+    font-size: 60px;
+    font-family: papyrus;
+    color: #274d8c;
+}
+
+h3 {
+    font-size: 60px;
+    font-family: papyrus;
+    color: #274d8c;
+}
+
+body {
+    font-family: Stencil Std, fantasy;
+    font-size: 20px;
+}
+				 
+
+a:link {
+    color: #4485ed;
+}
+
+a:visited {
+    color: #1d3c6d;
+}
+
+a:hover {
+    color: #91f0f7;
+}
+
+a:active{
+    color: #58b5e8;
+}
+
+    
+
