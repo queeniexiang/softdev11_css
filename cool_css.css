@@ -1,0 +1,80 @@
+a:link {
+    color: #E5DCE3;
+}
+
+a:visited {
+    color: #E5B7DC;
+}
+
+a:hover {
+    color: #E5DCE3;
+}
+
+a:active{
+    color: #91f0f7;
+}
+
+body {
+    background-image: url("border_pattern.jpg");
+    margin: 0;
+    padding: 0;
+}
+
+.extreme {
+    margin-right: 500px;
+    margin-left: 500px;
+    background-color: #EBD8D0;
+}
+
+.luckydoggo {
+    animation: blinker 10s linear infinite;
+    font-family: papyrus;
+    font-size: 30px; 
+    text-align: center;
+    margin-right: 400px;
+    margin-left: 350px;
+}
+    
+h1 {
+    animation: blinker 10s linear infinite;
+    font-family: papyrus;
+    font-size: 80px; ;
+    text-align: center; 
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+@keyframes blinker {  
+    50% { opacity: 0; }
+}
+
+.navzone {
+    margin-right: 300px;
+    margin-left: 300px;
+    color: #E5DCE3;
+    text-align: center;
+    font-family: papyrus;
+    font-size: 40px;
+    background-color: #BFA89E; 
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: papyrus;
+}
+
+.content {
+    font-family: papyrus;
+    font-size: 25px;
+    text-align: center;
+    color: #E5DCE3;
+    opacity: 50%;
+    margin-right: 150px;
+    margin-left: 150px;
+    background-color:#8B786D;
+}
+
